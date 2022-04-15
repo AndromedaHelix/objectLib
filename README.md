@@ -3,12 +3,12 @@ AndromedaHelix's library for object oriented programming for video game developm
 
 ## To do (For now)
 * [ ] Include propietary "Controls" Input System
-  + [ ]  Left Mouse
-  + [ ]  Right Mouse
-  + [ ]  WASD Keys
-  + [ ]  Arrow Keys
+  + [x]  Left Mouse
+  + [x]  Right Mouse
+  + [x]  WASD Keys
+  + [x]  Arrow Keys
   + [ ]  Action Keys
-* [ ] Create a class that only manages every "Controls" actions
+* [x] Create a class that only manages every "Controls" actions
 * [ ] Add setting for creating scripts with default funcions
   + [ ] --FILL FUNCTION--
   + [ ] --FILL FUNCTION--
