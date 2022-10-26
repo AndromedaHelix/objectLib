@@ -1,3 +1,6 @@
+# DISCLAIMER
+Currently, this project is out of production. No furder updates will be made until further notice
+
 # AndromedaLib
 AndromedaHelix's library for object oriented programming for video game development using the Unity Engine
 
